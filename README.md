@@ -1,16 +1,5 @@
 <!--
 **yunyunliu/yunyunliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- One short (2-3 sentence) paragraph is plenty. Try to express your interest in coding, 
-quick introduction to yourself or greeting
-something interesting about you
-which area(s) of Web development you are passionate about and why
-how you are interested in applying or advancing your technical skills
-one interest outside of Web development
-
-sections:
-About Me
-Skills
-Links to your LinkedIn profile and resume.
 -->
 ## Hello, I'm Yunyun.  :octocat:
 
