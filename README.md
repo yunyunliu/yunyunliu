@@ -3,7 +3,7 @@
 -->
 ## Hello, I'm Yunyun.  :octocat:
 
-I'm a full stack web developer, technology enthusiast, and life-long autodidact. I'm also always working on being a better bug-squisher  :beetle: .
+I'm a full stack web developer, technology enthusiast, and life-long autodidact. I'm also always working on being a better bug-squisher  :beetle: .  
 I came to web-development from a background in cognitive psychology and linguistics, so I am especially interested in how people interact with technology and in creating applications that are intuitive and user-friendly. 
 
 ### I build web applications using:
