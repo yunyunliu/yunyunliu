@@ -1,7 +1,7 @@
 <!--
 **yunyunliu/yunyunliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Hi, I'm Yunyun.
+## Hi, I'm Yunyun. :octocat:
 
 I'm a full stack web developer, technology enthusiast, and life-long autodidact. 
 
