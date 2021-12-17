@@ -17,5 +17,5 @@ And I am always excited for opportunities to learn new tech.
 
 ## Links
 
--  [linkedin](https://www.linkedin.com/in/yunyunliu/)  
+-  [LinkedIn](https://www.linkedin.com/in/yunyunliu/)  
 -  [Portfolio](https://www.yunyun.dev/)
