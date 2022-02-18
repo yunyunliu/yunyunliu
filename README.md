@@ -11,11 +11,10 @@ My academic background is in cognitive psychology and linguistics. As a result, 
 
 **Languages and Frameworks:** JavaScript, HTML & CSS, Node, React, Express  
 **Databases:** PostgreSQL, MongoDB  
-**Tools:** Figma, Postman, Webpack, Babel.
+**Tools:** Figma, Postman, Webpack, Babel, NPM, Chrome DevTools
 
 And I am always excited for opportunities to learn new tech.
 
 ## Links
 
 -  [LinkedIn](https://www.linkedin.com/in/yunyunliu/)  
--  [Portfolio](https://www.yunyun.dev/)
