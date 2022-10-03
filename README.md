@@ -4,7 +4,7 @@
 
 I'm a full stack web developer, technology enthusiast, and life-long autodidact. 
 
-My academic background is in cognitive psychology and linguistics. As a result, I am especially interested in how people interact with technology and in creating applications that are intuitive and user-friendly. 
+My academic background is in cognitive psychology and linguistics. I am especially interested in how people interact with technology and in creating applications that are intuitive and user-friendly. 
 
 ## I build applications using:
 
