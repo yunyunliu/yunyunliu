@@ -6,6 +6,4 @@ Backend web developer building systems and APIs using Python and Go.
 
 I welcome opportunities to learn new technologies and expand my skills.
 
-## Links
-
--  [LinkedIn](https://www.linkedin.com/in/yunyunliu/)  
+[LinkedIn](https://www.linkedin.com/in/yunyunliu/)  
